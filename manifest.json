@@ -1,12 +1,12 @@
 {
   "name": "Poo Monsters Demo",
   "short_name": "Poo Monsters",
-  "scope": "/",
-  "start_url": "/",
-  "theme_color": "#FCF745",
-  "background_color": "#FCF745",
   "display": "standalone",
   "orientation": "landscape",
+  "start_url": "/",
+  "scope": "/",
+  "theme_color": "#FCF745",
+  "background_color": "#FCF745",
   "icons": [
   {
     "src": "android-chrome-192x192.png",
