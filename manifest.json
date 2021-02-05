@@ -1,7 +1,7 @@
 {
   "name": "Poo Monsters Demo",
   "short_name": "Poo Monsters",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "landscape",
   "start_url": "/",
   "scope": "/",
